@@ -9,6 +9,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "jupyterlab>=4.4.3",
     "langchain>=0.3.25",
+    "langchain-community>=0.3.25",
     "langchain-openai>=0.3.24",
     "notebook>=7.4.3",
     "python-dotenv>=1.1.0",
